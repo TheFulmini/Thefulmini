@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandro Fulmini</h1>
 <h3 align="center">Pushing the limits beyond the sky.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefulmini" alt="thefulmini" /></a> </p>
 
 - 🔭 I’m currently working on [Inception](https://github.com/TheFulmini/Inception)
 
