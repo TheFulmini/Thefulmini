@@ -2,11 +2,11 @@
 <h3 align="center">Pushing the limits beyond the sky.</h3>
 
 
-- 🔭 I’m currently working on [Inception](https://github.com/TheFulmini/Inception)
+- 🔭 I’m currently working
 
 - 🌱 I’m currently learning **C++, Docker, Containers**
 
-- 👯 I’m looking to collaborate on **Webserver**
+- 👯 I’m looking to collaborate on **ft_transcendence**
 
 - 👨‍💻 All of my projects are available at [github.com/TheFulmini](github.com/TheFulmini)
 
