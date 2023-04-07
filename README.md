@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/TheFulmini](github.com/TheFulmini)
 
-- 📫 How to reach me **afulmini@gmail.com**
+- 📫 How to reach me **alex.fulmini@gmail.com**
 
 - ⚡ Fun fact **I talk a lot, some say too much others say too little. Its all relative.**
 
