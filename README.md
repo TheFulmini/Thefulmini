@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working
 
-- 🌱 I’m currently learning **C++, Docker, Containers**
+- 🌱 I’m currently learning **C++, Docker, Containers, AWS, Terraform**
 
 - 👯 I’m looking to collaborate on **ft_transcendence**
 
