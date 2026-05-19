@@ -1,86 +1,62 @@
 <h1 align="center">Hi 👋, I'm Alexandro Fulmini</h1>
 <h3 align="center">Pushing the limits beyond the sky.</h3>
 
-- ☁️ I’m currently working as a **Cloud Engineer at Accenture**
-
-- 🔭 I’m currently working on **finops-tool**
-
-- 🌱 I’m currently learning **AI for FinOps, FinOps for AI, Kubernetes, LLMs & ML, MLOps, AIOps**
-
-- 👯 I’m looking to collaborate on **Cloud, FinOps & AI-driven projects**
-
-- 👨‍💻 All of my projects are available at [github.com/TheFulmini](https://github.com/TheFulmini)
-
-- 📫 How to reach me **alex.fulmini@gmail.com**
-
-- ⚡ Fun fact **I talk a lot, some say too much others say too little. It's all relative.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FinOps-Engineer-5A67D8?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
+- 🔭 Currently building **finops-tool**
+- 🌱 Learning **AI for FinOps, FinOps for AI, Kubernetes, LLMs & ML, MLOps, AIOps**
+- 👯 Looking to collaborate on **Cloud, FinOps & AI-driven projects**
+- 👨‍💻 Projects available at: [github.com/TheFulmini](https://github.com/TheFulmini)
+- 📫 Reach me at: **alex.fulmini@gmail.com**
+- ⚡ Fun fact: **I talk a lot, some say too much others say too little. It's all relative.**
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
+---
 
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</a>
+<h3 align="center">Tech Stack</h3>
 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-</a>
+<p align="center">
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.finops.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/finopsfoundation" alt="finops" width="40" height="40"/>
-</a>
-
-<a href="https://www.scrum.org/professional-scrum-product-owner-i-certification" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/scrumalliance" alt="pspo" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefulmini&show_icons=true&locale=en&layout=compact" alt="thefulmini" />
+---
+
+<h3 align="center">Domains & Certifications</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FinOps-Cloud%20Optimization-5A67D8?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PSPO%20I-Scrum.org-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MLOps-AI%20Pipelines-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AIOps-Intelligent%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefulmini&show_icons=true&locale=en&layout=compact" alt="thefulmini" />
 </p>
